@@ -9,4 +9,3 @@ def mnist():
 
 
 change="test"
-change="conflict"
