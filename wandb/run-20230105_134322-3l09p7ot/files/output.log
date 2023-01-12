@@ -1,0 +1,10 @@
+Training day and night
+Namespace(lr=0.001)
+Traceback (most recent call last):
+  File "/home/delta/MLOps/mlops_1/main.py", line 108, in <module>
+    TrainOREvaluate()
+  File "/home/delta/MLOps/mlops_1/main.py", line 33, in __init__
+    getattr(self, args.command)()
+  File "/home/delta/MLOps/mlops_1/main.py", line 44, in train
+    wandb.watch(model, log_freq=100)
+UnboundLocalError: local variable 'model' referenced before assignment

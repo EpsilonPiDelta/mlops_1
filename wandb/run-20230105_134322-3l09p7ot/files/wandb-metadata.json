@@ -1,0 +1,59 @@
+{
+    "os": "Linux-5.15.79.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.8",
+    "heartbeatAt": "2023-01-05T12:43:23.771658",
+    "startedAt": "2023-01-05T12:43:22.900139",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "train"
+    ],
+    "state": "running",
+    "program": "/home/delta/MLOps/mlops_1/main.py",
+    "codePath": "main.py",
+    "git": {
+        "remote": "https://github.com/EpsilonPiDelta/mlops_1.git",
+        "commit": "3f73aba972ee390ccda377755fa5d0002bb68824"
+    },
+    "email": null,
+    "root": "/home/delta/MLOps/mlops_1",
+    "host": "r135128",
+    "username": "root",
+    "executable": "/home/delta/miniconda3/envs/my_environment/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2711.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2711.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2711.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2711.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2711.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 14.440387725830078
+    },
+    "memory": {
+        "total": 3.7644577026367188
+    }
+}

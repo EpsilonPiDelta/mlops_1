@@ -1,0 +1,2 @@
+usage: python main.py <command>
+main.py: error: the following arguments are required: command
